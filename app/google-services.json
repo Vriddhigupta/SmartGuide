@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802576370311",
+    "project_id": "smartguide-786bc",
+    "storage_bucket": "smartguide-786bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802576370311:android:550f71b62d29bb4d110622",
+        "android_client_info": {
+          "package_name": "com.example.nearmedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802576370311-3cu7o3s1opgsbhfraa545qg8388mutd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzMcKYtEXFoc-oVL6AKfnSOohEDNlERh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802576370311-3cu7o3s1opgsbhfraa545qg8388mutd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
